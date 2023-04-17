@@ -11,7 +11,7 @@
   <br>
   <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" style="width:70px;"/>
   <p><i>keep going</i></p>
-  <a href="https://velog.io/@plutom035/series"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+  <a target="_blank" href="https://velog.io/@plutom035/series"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 </div><br>
  
   
